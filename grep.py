@@ -1,5 +1,3 @@
-#!/opt/pyenv/shims/python3
-
-# hash + bang = hashbang = shebang
+#!/usr/bin/env python3
 
 print("Hello, world!")
